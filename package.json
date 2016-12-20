@@ -24,9 +24,9 @@
   "homepage": "https://github.com/fleg/nci-gogs-webhook",
   "peerDependencies": {
     "nci": ">=1.0.1 <1.1.0",
-    "nci-express": ">=1.0.0"
+    "nci-express": ">=2.0.0"
   },
   "dependencies": {
-    "nci-base-webhook": "1.0.0"
+    "nci-base-webhook": "1.1.0"
   }
 }
